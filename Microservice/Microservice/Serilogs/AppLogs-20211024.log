@@ -1,0 +1,31 @@
+09:52:18.339 +07:00 [Information] Application started. Press Ctrl+C to shut down.
+09:52:18.349 +07:00 [Information] Hosting environment: "Development"
+09:52:18.350 +07:00 [Information] Content root path: "E:\MVC Core\Microservices\Microservice\Microservice"
+09:52:18.380 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/weatherforecast  
+09:52:18.496 +07:00 [Information] Request finished in 121.9011ms 404 
+09:52:40.854 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/index.html  
+09:52:40.942 +07:00 [Information] Request finished in 88.5521ms 200 text/html;charset=utf-8
+09:52:41.104 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/swagger-ui.css  
+09:52:41.104 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/swagger-ui-standalone-preset.js  
+09:52:41.110 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/swagger-ui-bundle.js  
+09:52:41.153 +07:00 [Information] The file "/swagger-ui-bundle.js" was not modified
+09:52:41.156 +07:00 [Information] The file "/swagger-ui-standalone-preset.js" was not modified
+09:52:41.158 +07:00 [Information] Request finished in 49.4947ms 304 application/javascript
+09:52:41.158 +07:00 [Information] Request finished in 54.5908ms 304 application/javascript
+09:52:41.165 +07:00 [Information] The file "/swagger-ui.css" was not modified
+09:52:41.167 +07:00 [Information] Request finished in 63.6083ms 304 text/css
+09:52:41.633 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/v1/swagger.json  
+09:52:41.819 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/index.html  
+09:52:41.827 +07:00 [Information] Request finished in 7.8017ms 200 text/html;charset=utf-8
+09:52:41.990 +07:00 [Information] Request finished in 357.5697ms 200 application/json;charset=utf-8
+10:06:38.889 +07:00 [Information] Application started. Press Ctrl+C to shut down.
+10:06:38.901 +07:00 [Information] Hosting environment: "Development"
+10:06:38.901 +07:00 [Information] Content root path: "E:\MVC Core\Microservices\Microservice\Microservice"
+10:06:38.951 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/weatherforecast  
+10:06:39.150 +07:00 [Information] Request finished in 208.5455ms 404 
+10:07:40.644 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/index.html  
+10:07:40.758 +07:00 [Information] Request finished in 121.286ms 200 text/html;charset=utf-8
+10:07:41.815 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/v1/swagger.json  
+10:07:41.977 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/index.html  
+10:07:41.985 +07:00 [Information] Request finished in 7.8837ms 200 text/html;charset=utf-8
+10:07:42.169 +07:00 [Information] Request finished in 355.3784ms 200 application/json;charset=utf-8

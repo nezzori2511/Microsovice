@@ -1,0 +1,30 @@
+20:04:41.987 +07:00 [Information] Application started. Press Ctrl+C to shut down.
+20:04:42.018 +07:00 [Information] Hosting environment: "Development"
+20:04:42.019 +07:00 [Information] Content root path: "E:\MVC Core\Microservices\Microservice\Microservice"
+20:04:43.278 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/weatherforecast  
+20:04:43.278 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/  
+20:04:43.706 +07:00 [Information] Request finished in 438.5211ms 0 
+20:04:44.358 +07:00 [Information] Request finished in 1091.8545ms 404 
+20:27:22.934 +07:00 [Information] Application started. Press Ctrl+C to shut down.
+20:27:22.947 +07:00 [Information] Hosting environment: "Development"
+20:27:22.948 +07:00 [Information] Content root path: "E:\MVC Core\Microservices\Microservice\Microservice"
+20:27:23.017 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/weatherforecast  
+20:27:23.229 +07:00 [Information] Request finished in 221.208ms 404 
+20:27:54.099 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/index.html  
+20:27:54.301 +07:00 [Information] Request finished in 202.9096ms 200 text/html;charset=utf-8
+20:27:54.437 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/swagger-ui.css  
+20:27:54.437 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/swagger-ui-bundle.js  
+20:27:54.441 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/swagger-ui-standalone-preset.js  
+20:27:54.580 +07:00 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+20:27:54.580 +07:00 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+20:27:54.590 +07:00 [Information] Request finished in 156.8019ms 200 text/css
+20:27:54.590 +07:00 [Information] Request finished in 148.549ms 200 application/javascript
+20:27:54.594 +07:00 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+20:27:54.595 +07:00 [Information] Request finished in 158.1757ms 200 application/javascript
+20:27:55.142 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/v1/swagger.json  
+20:27:55.361 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/favicon-32x32.png  
+20:27:55.368 +07:00 [Information] Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+20:27:55.368 +07:00 [Information] Request finished in 7.022ms 200 image/png
+20:27:55.680 +07:00 [Information] Request finished in 538.081ms 200 application/json;charset=utf-8
+20:27:55.711 +07:00 [Information] Request starting HTTP/2.0 GET https://localhost:44391/swagger/index.html  
+20:27:55.718 +07:00 [Information] Request finished in 6.7802ms 200 text/html;charset=utf-8
